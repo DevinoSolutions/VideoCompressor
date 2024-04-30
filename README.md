@@ -1,4 +1,4 @@
-# Compressor
+# VideoCompressor
 
 You need FFMPEG installed on your computer. 
 
